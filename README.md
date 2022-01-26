@@ -1,6 +1,8 @@
 # GloboSales_time_series
 This repository is created for imaginary sales portal company called GloboSales. It simply is a tool to predict future transactions or sales for each individual E-Store on the Portal   
 
+Business Presentation can be found as a PDF document on the repository
+
 # Table of Contents
 * Introduction
 * QuickStart
@@ -22,7 +24,7 @@ To run it on your end:
 1. Go to google collab
 2. Upload the Notebook named POC_time_series_transaction_prediction.ipynb from the repo
 3. Open the related Notebook and run first 2 cells
-4. Choose the 'ecommerce_data.csv' file once Notebook asks you after running the Second cell (insert image here.)
+4. Choose the 'ecommerce_data.csv' file once Notebook asks you after running the Second cell (the file is located inside of the Zip file.)
 5. Confirm both of the selections on the third cell (1 is for prediction of sales, 0 is for predicting the total amount of transactions)
 6. Run the rest of the cells.
 7. Prediction graph is displayed on the last cell as output. (The same graph can be used in the eStore portal.)
